@@ -12,7 +12,7 @@ import {NgOptimizedImage} from '@angular/common';
     #container {
       background-color: #FFFFFF;
       border-radius: 16px;
-      box-shadow: 0 0 10px 5px #E5EAF0;
+      box-shadow: 0 30px 100px 0 rgba(17, 23, 41, 0.05);
       width: calc(2 * 16px + 366px);
     }
 
