@@ -57,9 +57,10 @@ import {NgOptimizedImage} from '@angular/common';
       color: #6C727F;
       font-size: 14px;
       font-weight: 400;
-      letter-spacing: 0.3px;
+      letter-spacing: 0.2px;
       margin: 6px 0 0;
-      word-spacing: 1.1px;
+      word-spacing: 1.0px;
+      padding-right:10px;
     }
 
     #footer {
@@ -83,7 +84,7 @@ import {NgOptimizedImage} from '@angular/common';
       <div id="main">
         
 
-      <img id="image" ngSrc="../../assets/cactus_img.jpg" alt="" width="366" height="152" priority="true">
+      <img id="image" ngSrc="./assets/cactus_img.jpg" alt="" width="366" height="152" priority="true">
 
       <header id="header">
         <div id="tag-container">
