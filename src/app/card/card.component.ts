@@ -18,7 +18,7 @@ import {NgOptimizedImage} from '@angular/common';
 
     #main {
       box-sizing: content-box;
-      padding: 16px;
+      padding: 16px 16px 0;
     }
 
     #image {
@@ -60,7 +60,7 @@ import {NgOptimizedImage} from '@angular/common';
       letter-spacing: 0.2px;
       margin: 6px 0 0;
       word-spacing: 1.0px;
-      padding-right:10px;
+      padding-right: 10px;
     }
 
     #footer {
